@@ -1,6 +1,6 @@
 # rmvx-ebjb-ip-system
 
-Adds an IP (Item Points) system to use skills attached to your equipment to your RPG Maker VX game.
+Adds an IP (Item Points) system to use skills attached to your equipment like in "Lufia 2" to your RPG Maker VX game.
 
 ## Table of contents
 
